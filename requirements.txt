@@ -1,0 +1,8 @@
+	Langchain
+	Langchain-core
+	Langchain-community
+	Python-dotenv
+    Langchain-groq
+    pdfplumber
+matplotlib
+wordcloud
