@@ -7,12 +7,12 @@
 
 ---
 
-## 🎯 Business Problem
+##  Business Problem
 Job seekers often struggle to gauge how well their resumes match job requirements. Manual review is time-consuming and often imprecise, leading to missed opportunities despite having the right skills.
 
 ---
 
-## 🏢 Industry
+##  Industry
 - Recruitment Technology  
 - HR Tech  
 - Career Platforms  
@@ -33,7 +33,7 @@ Job seekers often struggle to gauge how well their resumes match job requirement
 - **UI:** Streamlit for interactive, real-time feedback.  
 
 **Architecture Diagram:**  
-![Architecture](./images/architecture-ai-resume.svg)
+![Architecture](images/architecture-ai-resume.png)
 
 ---
 
